@@ -1,6 +1,6 @@
 # 介绍
 借用：https://github.com/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC
-随便改了一下，大佬勿喷，凑活能用
+随便改了一下罢了，雕虫小技，大佬勿喷，凑活能用
 
 # 优化后使用
 
