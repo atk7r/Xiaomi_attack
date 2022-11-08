@@ -22,7 +22,7 @@ arbitrary_file_read_vulnerability.py
 options:
   -h, --help            show this help message and exit
   -u remote_address, --url remote_address
-                        Please input url to read.
+                        Please input url to attack.
 
 ```
 
